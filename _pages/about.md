@@ -57,6 +57,8 @@ My research interests include:
 - Haotian Zhang, `Junqi Liao`, Yiheng Jiang, Li Li, Dong Liu. Padding-Aware Learned Image Compression. *2023 IEEE International Symposium on Circuits and Systems (ISCAS)*, 2023  
 [[HTML]](https://ieeexplore.ieee.org/abstract/document/10181476)
 
+- Haotian Zhang, Feihong Mei, `Junqi Liao`, Li Li, Dong Liu. Practical Learned Image Compression with Online Encoder Optimization[C]//2024 Picture Coding Symposium (PCS). IEEE, 2024: 1-5.
+[[HTML]](https://ieeexplore.ieee.org/abstract/document/10566341)
 <span class='anchor' id='-hon'></span>
 
 # 🏅 Honors and Awards
