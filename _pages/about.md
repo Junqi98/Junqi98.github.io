@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='-abo'></span>
 
-My name is Junqi Liao (廖峻骐). I am studying for my PhD in the School of Information Science and Technology at the University of Science and Technology of China (USTC) in Hefei, Anhui Province. My supervisors are Professor Li Li (李礼) and Professor Dong Liu (刘东).
+My name is Junqi Liao (廖峻骐). I am studying for my PhD in the [Intelligent Visual Data Coding Laboratory (iVC Lab)](https://ustcivclab.github.io) at the School of Information Science and Technology at the University of Science and Technology of China (USTC) in Hefei, Anhui Province. My supervisors are Professor [Li Li (李礼)](https://faculty.ustc.edu.cn/lil1/en/index.htm) and Professor [Dong Liu (刘东)](https://faculty.ustc.edu.cn/dongeliu/).
 
 My research interests include:
 - Video coding
@@ -31,11 +31,15 @@ My research interests include:
 # 🎓 Educations
 - *2017.09 - 2021.06*, Undergraduate, <a href="https://www.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.jpg" width="23pt"></a> Dalian Maritime University (DMU), School of Information Science and Technology, Dalian.
 - *2021.09 - Now*, Doctoral candidate, <a href="https://www.ustc.edu.cn/"><img class="svg" src="/images/USTC_logo.png" width="23pt"></a> University of Science and Technology of China (USTC), School of Information Science and Technology, Hefei.
+
+<span class='anchor' id='-pub'></span>
+
+# 💼 Internships
+- *2025.02 - 2025.11*, <img class="svg" src="/images/BD_logo.png" width="23pt"> ByteDance MM Lab.
  
 <span class='anchor' id='-pub'></span>
 
 # 📝 Publications
----
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2024</div><img src='images/TMM2024.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
